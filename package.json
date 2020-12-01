@@ -36,7 +36,6 @@
     }
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.8.2",
     "jquery": "^3.4.1"
   },
   "publishConfig": {
